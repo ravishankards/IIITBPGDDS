@@ -1,4 +1,4 @@
-# IIITBPGDDS
+# IIITB_PGDDS
 
 These are the projects completed during Post Graduation Diploma in Data Science from IITB/UpGrad. In each of the case studies or projects involved following:
 
