@@ -7,6 +7,6 @@ These are the projects completed during Post Graduation Diploma in Data Science 
 - Transform/Cleanse/Standarize/Normalize the data 
 - Apply EDA on data to get insights
 - Apply predictive learning models 
-- Draw the inference from the results and present the same in presentable format.
+- Draw the inference from the results and present the same.
 
 Most of the projects are developed in R.
